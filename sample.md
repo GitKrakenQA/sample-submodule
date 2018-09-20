@@ -12,3 +12,5 @@
 * Bullet 2
 * Bullet 3
 * Bullet 4
+
+| Markdown | Table |
