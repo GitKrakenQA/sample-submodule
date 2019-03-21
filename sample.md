@@ -7,6 +7,7 @@
 
 *Italics*
 **Bold**
+~~Strikethrough~~
 
 * Bullet 1
 * Bullet 2
